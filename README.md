@@ -1,4 +1,4 @@
-# 💌 AI Email Reply Assistant - Chrome Extension
+# AI Email Reply Assistant - Chrome Extension
 
 This is a Chrome extension that adds an **AI Reply** button to your Gmail compose window.  
 With a single click, it generates a **professional email response** using an AI backend powered by Spring Boot.
