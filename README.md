@@ -14,12 +14,6 @@ With a single click, it generates a **professional email response** using an AI 
 
 ---
 
-## 🛠️ Prerequisites
-
-Before you begin, ensure you have:
-
-- Google Chrome browser installed 🧭
-- Backend Spring Boot API running at `http://localhost:8080` (or modify the URL in `content.js`) 🔧
 
 ---
 
@@ -56,11 +50,4 @@ Before you begin, ensure you have:
 
 ---
 
-## ⚙️ Configuration
 
-If you're running the backend on a different server or port, edit the API endpoint in `content.js`:
-
-```js
-const response = await fetch('http://localhost:8080/api/email/generate', {
-  // ...
-});
